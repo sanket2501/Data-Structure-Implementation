@@ -24,6 +24,7 @@ void printlist(Node *head){
         curr=curr->next;
         }
 }
+
 int main() 
 { 
 	Node *head=NULL;
