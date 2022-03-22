@@ -3,6 +3,7 @@
 10 20 30 50
 */
 
+
 #include<iostream>
 using namespace std;
 struct node
