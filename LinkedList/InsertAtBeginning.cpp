@@ -1,3 +1,7 @@
+/*
+10 20 30 
+*/
+
 #include <bits/stdc++.h> 
 using namespace std; 
 

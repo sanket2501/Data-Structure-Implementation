@@ -1,3 +1,9 @@
+/*
+25
+10 20 30 40 50 
+10 20 25 30 40 50
+*/
+
 #include<iostream>
 using namespace std;
 struct node

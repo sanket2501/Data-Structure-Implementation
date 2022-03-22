@@ -1,3 +1,9 @@
+/*
+50
+10 20 30 40 50 
+Position is 5
+*/
+
 #include<iostream>
 using namespace std;
 struct node

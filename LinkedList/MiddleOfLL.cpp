@@ -1,3 +1,8 @@
+/*
+10 20 30 40 50 
+Middle of Linked List is 30
+*/
+
 #include<iostream>
 using namespace std;
 struct node
