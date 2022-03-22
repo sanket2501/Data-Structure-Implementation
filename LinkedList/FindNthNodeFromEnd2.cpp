@@ -1,3 +1,8 @@
+/*
+10 20 30 40 50 
+Nth node from end of Linked List: 40
+*/
+
 #include <bits/stdc++.h> 
 using namespace std; 
 
