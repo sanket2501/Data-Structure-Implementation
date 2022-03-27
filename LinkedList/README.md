@@ -17,3 +17,20 @@
 |Memory is allocated during the compile time (Static memory allocation). | Memory is allocated during the run-time (Dynamic memory allocation). |
 
 
+## Disadvantages of Linked Lists:
+
+* Random access is not allowed in Linked Lists. We have to access elements sequentially starting from the first node. So, we cannot do a binary search with linked lists efficiently with its default implementation. Therefore, search operation is costly in linked lists in comparison to arrays.
+* Extra memory space for a pointer is required with each element of the list.
+
+## Time Complexity
+
+
+| Data structure     | Access   | Search  | Insertion |Deletion |
+| :----------------- | :------- | :-------| :---------|:------- |
+| Singly Linked list | O(N)     | O(N)    | O(1)      | O(1)    |
+
+
+
+
+
+
